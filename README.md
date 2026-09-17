@@ -17,7 +17,7 @@ All 8 episodes of [Season 5](https://www.ardmediathek.de/serie/babylon-berlin/st
 - `Babylon_Berlin_S05E07_EN.srt`
 - `Babylon_Berlin_S05E08_EN.srt`
 
-The 2026 [Babylon Berlin · Making-of](https://www.ardmediathek.de/video/babylon-berlin/babylon-berlin-making-of/ard/Y3JpZDovL2FyZC5kZS92aWRlby1ERUctLTMxNzg1OQ):
+The 2026 [Babylon Berlin · Making-of](https://www.ardmediathek.de/video/babylon-berlin/babylon-berlin-making-of/ard/Y3JpZDovL2FyZC5kZS92aWRlby1ERUctLTMxNzg1OQ)
 
 - `Babylon_Berlin_Making-of_S05_EN.srt`
 
