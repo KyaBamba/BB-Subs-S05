@@ -25,7 +25,7 @@ The 2026 [Babylon Berlin · Making-of](https://www.ardmediathek.de/video/babylon
 
 ## 🚀 How to Use
 
-1. **Download** the `.srt` file for the file you are watching (or download the entire repo as a ZIP via the **Code** button).
+1. **Download** the `.srt` file for the clip you are watching (or download the entire repo as a ZIP via the **Code** button).
 2. **Rename** the subtitle file so that it matches the exact filename of your video file (e.g., `Babylon.Berlin.S05E01.mkv` and `Babylon_Berlin_S05E01_EN.srt` in the same directory).
 3. Open the video in your preferred media player (VLC, IINA, Plex, etc.). The subtitles should load automatically. If not, drag the `.srt` file onto the player to add it.
 
