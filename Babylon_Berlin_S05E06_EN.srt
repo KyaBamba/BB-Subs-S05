@@ -48,12 +48,12 @@ What are they doing?
 
 12
 00:00:44,200 --> 00:00:46,400
-Make yourself invisible.
+Keep out of sight.
 Why?
 
 13
 00:00:46,480 --> 00:00:47,680
-(SA Man) One for me!
+(SA man) One for me!
 
 14
 00:00:47,840 --> 00:00:49,680
@@ -66,7 +66,7 @@ Go on!
 
 16
 00:00:51,720 --> 00:00:52,720
-(SA Man) Again!
+(SA man) Again!
 
 17
 00:00:52,800 --> 00:00:54,680
@@ -134,11 +134,11 @@ Hey, otherwise he'll bleed to death.
 
 31
 00:02:19,400 --> 00:02:20,720
-Frau Helfers, what a pleasure.
+Mrs. Helfers, what a pleasure.
 
 32
 00:02:21,800 --> 00:02:24,160
-Frau Luxemburg.
+Mrs. Luxemburg.
 - Come on in.
 
 33
@@ -166,11 +166,10 @@ My sister's recipe.
 38
 00:02:46,320 --> 00:02:48,200
 (Behnke) Yes, N, as in North Pole,
-Natalia, and of course 'Luxenburg'.
 
 39
 00:02:48,360 --> 00:02:51,720
-'Natalia', and of course 'Luxenburg'.
+Natalia, and of course "Luxenburg."
 
 40
 00:02:51,800 --> 00:02:53,480
@@ -183,8 +182,8 @@ I didn't know that.
 
 42
 00:02:56,840 --> 00:02:59,880
-Only our grandfather,
-on my father's side,
+It's just that our grandfather,
+on our father's side,
 
 43
 00:02:59,960 --> 00:03:03,160
@@ -241,7 +240,7 @@ That's her, that must be her.
 
 55
 00:04:03,280 --> 00:04:05,200
-Herr Katelbach? Herr Litten?
+Mr. Katelbach? Mr. Litten?
 
 56
 00:04:05,360 --> 00:04:07,760
@@ -258,7 +257,7 @@ That is surely Dr. Völcker.
 
 59
 00:04:11,160 --> 00:04:14,600
-Come along, Frau Helfers,
+Come along, Mrs. Helfers,
 we'll await you in the parlor.
 
 60
@@ -304,7 +303,7 @@ Please. Come in.
 
 69
 00:04:42,680 --> 00:04:44,200
-Frau Völcker, what a joy.
+Mrs. Völcker, what a joy.
 
 70
 00:04:44,280 --> 00:04:45,720
@@ -317,7 +316,7 @@ of course.
 
 72
 00:04:47,960 --> 00:04:50,280
-Is Frau Helfers here?
+Is Mrs. Helfers here?
 - Yes.
 
 73
@@ -351,7 +350,7 @@ Very well.
 
 80
 00:05:31,840 --> 00:05:34,640
-Yet I am Elisabeth Behnke.
+But I am Elisabeth Behnke.
 
 81
 00:05:34,720 --> 00:05:36,080
@@ -363,7 +362,7 @@ You may revile me and damn me,
 
 83
 00:05:39,200 --> 00:05:42,000
-yet everything I do and have done,
+but everything I do and have done
 
 84
 00:05:42,080 --> 00:05:45,920
@@ -386,25 +385,26 @@ can he still be stopped.
 
 88
 00:05:58,680 --> 00:06:01,600
-You can steer the destiny of this country now,
+You can steer the destiny
+of this country now,
 
 89
 00:06:01,680 --> 00:06:04,960
-or out of false pride
+or, out of false pride,
+abandon our beloved land
 
 90
 00:06:05,480 --> 00:06:07,520
-surrender our beloved land
-to its destruction.
+to its ruin.
 
 91
 00:06:09,720 --> 00:06:14,200
-'Men make their own history,
+"Men make their own history,
 not of their own free will,
 
 92
 00:06:15,240 --> 00:06:17,760
-yet they make it themselves.'
+but they make it themselves."
 
 93
 00:06:30,080 --> 00:06:31,560
@@ -479,11 +479,12 @@ of the suspended Inspector Rath.
 
 109
 00:07:20,800 --> 00:07:22,720
-Give me Identification.
+Put me through to Identification.
 
 110
 00:07:22,800 --> 00:07:25,840
-We should close the book on this case quickly.
+We should close the book
+on this case quickly.
 
 111
 00:07:27,640 --> 00:07:29,800
@@ -690,11 +691,11 @@ So far all I see is you trying
 158
 00:10:44,080 --> 00:10:46,800
 to get me back into your boat,
-my dear Herr Schleicher.
+my dear Mr. Schleicher.
 
 159
 00:10:46,880 --> 00:10:49,000
-Yet Hitler cannot be controlled.
+But Hitler cannot be controlled.
 
 160
 00:10:50,520 --> 00:10:52,240
@@ -702,7 +703,7 @@ Yes, it may seem that way,
 
 161
 00:10:52,400 --> 00:10:55,040
-yet with money, anyone can be controlled.
+but with money, anyone can be controlled.
 
 162
 00:10:55,920 --> 00:10:58,720
@@ -734,8 +735,8 @@ Nyssen, now listen here.
 
 168
 00:11:14,320 --> 00:11:18,560
-What we need is a national-right pact
-against Hitler,
+What we need is a right-wing nationalist
+pact against Hitler,
 
 169
 00:11:18,640 --> 00:11:20,680
@@ -743,7 +744,7 @@ with you and the leading industrialists,
 
 170
 00:11:20,760 --> 00:11:24,120
-with the German Nationals,
+with the German Nationalists,
 reasonable men from the NSDAP,
 
 171
@@ -774,12 +775,12 @@ That sounds intriguing.
 
 177
 00:11:42,080 --> 00:11:44,720
-Congratulations, Director,
+Congratulations, sir,
 a direct hit.
 
 178
 00:11:44,800 --> 00:11:46,360
-Herr Former Reich Chancellor.
+Chancellor.
 
 179
 00:11:47,360 --> 00:11:50,120
@@ -847,8 +848,8 @@ How did old Papen put it?
 
 194
 00:12:36,760 --> 00:12:39,160
-'I'll push him against the wall
-until he squeaks.'
+"I'll push him against the wall
+until he squeaks."
 
 195
 00:12:39,240 --> 00:12:40,600
@@ -881,16 +882,17 @@ What did she put down for me...
 202
 00:13:16,280 --> 00:13:18,080
 (Völcker)
-Can we not reach an agreement?
+Can't we reach an agreement?
 
 203
 00:13:18,160 --> 00:13:21,280
-No, we have already discussed this candidate.
+No, we have already discussed
+this candidate.
 
 204
 00:13:21,920 --> 00:13:23,640
 We did not discuss him.
-- Yes we did!
+- Yes, we did!
 
 205
 00:13:23,720 --> 00:13:27,120
@@ -920,11 +922,12 @@ Measures to stabilize democracy.
 
 211
 00:13:37,440 --> 00:13:40,160
-We envision a joint government
-of the SPD and KPD...
+We envision
+a joint government
 
 212
 00:13:40,320 --> 00:13:41,680
+of the SPD and KPD...
 - Just a moment.
 
 213
@@ -993,7 +996,8 @@ because nobody believes in it!
 
 227
 00:14:17,720 --> 00:14:20,160
-That is why you lose votes with every election!
+That is why you lose votes
+with every election!
 
 228
 00:14:20,240 --> 00:14:23,240
@@ -1069,7 +1073,7 @@ Both of you!
 
 244
 00:15:07,280 --> 00:15:09,800
-(both) But I...
+(Both) But I...
 - If you speak now,
 
 245
@@ -1091,7 +1095,7 @@ Point four.
 
 249
 00:15:26,280 --> 00:15:27,640
-Herr Reich Chancellor.
+Chancellor.
 
 250
 00:15:33,480 --> 00:15:34,480
@@ -1099,7 +1103,7 @@ My Führer.
 
 251
 00:15:38,920 --> 00:15:39,960
-Herr Hitler,
+Mr. Hitler,
 
 252
 00:15:41,320 --> 00:15:44,680
@@ -1128,7 +1132,8 @@ Your wife called this new gentleman.
 
 258
 00:16:03,320 --> 00:16:05,560
-You are letting the reins slip from your hands.
+You are letting the reins
+slip from your hands.
 
 259
 00:16:05,640 --> 00:16:08,880
@@ -1189,7 +1194,7 @@ I can tell you exactly.
 272
 00:17:00,360 --> 00:17:02,520
 I want the medical file
-of Lance Corporal Hitler
+of Corporal Hitler
 
 273
 00:17:02,600 --> 00:17:06,000
@@ -1231,7 +1236,7 @@ and beat whatever you want out of me.
 
 282
 00:17:34,320 --> 00:17:37,080
-Yet what you are looking for,
+But what you are looking for,
 you will not find with me.
 
 283
@@ -1266,7 +1271,7 @@ of Reich Chancellor Adolf Hitler.
 
 290
 00:18:41,920 --> 00:18:44,160
-(SA Man) Langenberger! Camp North!
+(SA man) Langenberger! North Camp!
 
 291
 00:18:45,160 --> 00:18:47,800
@@ -1294,12 +1299,12 @@ Jakob!
 
 296
 00:18:57,400 --> 00:19:01,360
-Katelbach, change of tracks.
+Katelbach, change of plans.
 Come with us now. Let's go.
 
 297
 00:19:02,040 --> 00:19:03,440
-(SA Man) Faster.
+(SA man) Faster.
 
 298
 00:19:05,240 --> 00:19:06,240
@@ -1311,8 +1316,8 @@ All hands!
 
 300
 00:19:10,000 --> 00:19:12,360
-What am I supposed to do with you now?
-- Escape.
+What am I doing here with you?
+- Getting out of here.
 
 301
 00:19:12,440 --> 00:19:14,880
@@ -1330,7 +1335,7 @@ Let's go!
 
 304
 00:19:18,800 --> 00:19:19,840
-(SA Man) Look sharp!
+(SA man) Hurry up!
 
 305
 00:19:21,040 --> 00:19:22,200
@@ -1363,7 +1368,7 @@ Remember, on my command.
 
 312
 00:19:40,000 --> 00:19:42,520
-(SA Man) Ready up!
+(SA man) Get ready!
 - Is everyone inside?
 
 313
@@ -1372,7 +1377,7 @@ Mount up, quickly!
 
 314
 00:19:44,560 --> 00:19:46,520
-Czerwinski, Henning, depart!
+Czerwinski, Henning, head out!
 
 315
 00:19:47,000 --> 00:19:48,520
@@ -1388,7 +1393,7 @@ Move, roll out.
 
 318
 00:20:04,320 --> 00:20:06,160
-(SA Man) Halt! Identification!
+(SA man) Halt! Show your papers!
 
 319
 00:20:09,960 --> 00:20:11,120
@@ -1584,7 +1589,7 @@ Your weapon, quickly.
 
 365
 00:23:47,800 --> 00:23:48,800
-*hectic breathing*
+*rapid breathing*
 
 366
 00:23:48,960 --> 00:23:50,320
@@ -1617,7 +1622,7 @@ Potatoes, I mean.
 
 373
 00:24:12,520 --> 00:24:16,000
-She always picks the floury ones.
+She always picks the starchy ones.
 
 374
 00:24:16,920 --> 00:24:18,600
@@ -1682,7 +1687,7 @@ Best of luck, men.
 
 389
 00:26:55,000 --> 00:26:56,120
-Frau Behnke,
+Mrs. Behnke,
 
 390
 00:26:56,960 --> 00:27:00,920
@@ -1716,8 +1721,8 @@ outside the city?
 
 397
 00:27:28,600 --> 00:27:32,120
-(whispers) Yes. We suspect
-in the north, just beyond the city limits.
+(whispers) Yes. We think there's one
+in the north, just outside the city.
 
 398
 00:27:32,760 --> 00:27:36,160
@@ -1748,11 +1753,12 @@ double occupancy.
 
 404
 00:28:00,840 --> 00:28:03,720
-Frau Völcker, Frau Helfers...
+Mrs. Völcker, Mrs. Helfers...
 
 405
 00:28:05,600 --> 00:28:08,720
-it was a matter close to Herr Katelbach's heart
+it was a matter close
+to Mr. Katelbach's heart
 
 406
 00:28:08,800 --> 00:28:12,680
@@ -1808,7 +1814,7 @@ Everything depends on us now.
 418
 00:28:57,440 --> 00:28:59,800
 (Berlin dialect) That over there?
-No, that's voluntary.
+No, that's volunteer work.
 
 419
 00:28:59,880 --> 00:29:02,480
@@ -1840,7 +1846,7 @@ I felt the same way in the beginning.
 
 426
 00:29:18,640 --> 00:29:21,360
-Yet believe me,
+But believe me,
 you'll see it differently soon.
 
 427
@@ -1858,7 +1864,7 @@ Your rejection comes from the intellect.
 
 430
 00:29:30,960 --> 00:29:34,680
-Yet this is about feeling,
+But this is about feeling,
 about security and love.
 
 431
@@ -2113,7 +2119,7 @@ I'll make us some coffee.
 
 490
 00:36:20,640 --> 00:36:22,280
-*constable clears throat*
+*officer clears his throat*
 
 491
 00:36:22,440 --> 00:36:25,720
@@ -2128,7 +2134,7 @@ ladies and gentlemen, please.
 493
 00:36:29,720 --> 00:36:31,560
 Move along now!
-Good day.
+Goodbye.
 
 494
 00:36:38,280 --> 00:36:39,920

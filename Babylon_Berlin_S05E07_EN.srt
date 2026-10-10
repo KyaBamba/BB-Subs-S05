@@ -113,7 +113,7 @@ And when does the spectacle begin?
 
 26
 00:01:47,920 --> 00:01:49,120
-Just you wait.
+Just wait and see.
 
 27
 00:02:00,120 --> 00:02:01,680
@@ -138,7 +138,7 @@ Just you wait.
 32
 00:03:32,760 --> 00:03:35,560
 An assassination attempt
-on the Chancellor?
+on the Reich Chancellor?
 
 33
 00:03:38,800 --> 00:03:40,240
@@ -175,11 +175,13 @@ You don't have to.
 
 41
 00:04:01,160 --> 00:04:03,200
-I'm not a murderer. / I know.
+I'm not a murderer.
+- I know.
 
 42
 00:04:03,800 --> 00:04:06,520
-I... / But you'll become a murderer
+I...
+- But you'll become a murderer
 
 43
 00:04:06,600 --> 00:04:07,720
@@ -195,7 +197,8 @@ That's why I didn't tell you.
 
 46
 00:04:20,519 --> 00:04:22,040
-Charlotte. / Don't you dare!
+Charlotte.
+- Don't you dare!
 
 47
 00:04:29,480 --> 00:04:30,800
@@ -268,8 +271,7 @@ Why?
 
 64
 00:08:13,720 --> 00:08:15,800
-We will draw
-our conclusions from that.
+We will act accordingly.
 
 65
 00:08:18,520 --> 00:08:19,880
@@ -286,12 +288,12 @@ Schloss Liebenberg.
 
 68
 00:08:25,960 --> 00:08:27,360
-Tonight, the most important leaders
+Meeting there tonight
 
 69
 00:08:27,440 --> 00:08:30,160
-of industry and high finance
-are meeting there,
+are the most important leaders
+of industry and high finance,
 
 70
 00:08:30,240 --> 00:08:33,440
@@ -339,7 +341,7 @@ of the NSDAP leadership.
 79
 00:08:54,960 --> 00:08:57,160
 The Reich Chancellor
-is also announced.
+is also expected.
 
 80
 00:08:57,240 --> 00:08:58,960
@@ -362,7 +364,7 @@ gathered here in this room.
 
 84
 00:09:08,960 --> 00:09:13,280
-Herr Wegener has hired
+Mr. Wegener has hired
 a catering firm run by me.
 
 85
@@ -509,7 +511,7 @@ there is a microphone
 115
 00:10:56,760 --> 00:10:59,960
 connected around the clock
-to the Broadcasting House.
+to the radio station.
 
 116
 00:11:00,040 --> 00:11:02,520
@@ -560,7 +562,7 @@ But why aren't you sitting next to me?
 126
 00:11:35,080 --> 00:11:38,160
 I have another spot,
-right close to our guests.
+very close to our guests.
 
 127
 00:11:38,240 --> 00:11:40,360
@@ -585,8 +587,8 @@ Papen is taking your place.
 
 132
 00:11:51,200 --> 00:11:53,520
-I'm tending the field
-from the proper side,
+I'm working this
+from the right angle,
 
 133
 00:11:53,600 --> 00:11:55,840
@@ -647,7 +649,7 @@ of the Reichstag President,
 145
 00:12:29,000 --> 00:12:30,840
 while you deal
-with Herr Hitler.
+with Mr. Hitler.
 
 146
 00:12:30,920 --> 00:12:32,560
@@ -655,7 +657,7 @@ with Herr Hitler.
 
 147
 00:12:33,480 --> 00:12:35,000
-Alfred, aren't you well?
+Alfred, aren't you feeling well?
 
 148
 00:12:36,800 --> 00:12:38,120
@@ -667,16 +669,18 @@ She isn't listening to me.
 
 150
 00:12:51,800 --> 00:12:53,440
-Well? / Good news.
+Well?
+- Good news.
 
 151
 00:12:53,520 --> 00:12:56,040
-You're not being sought.
+Nobody's looking for you.
 At least not officially.
 
 152
 00:12:56,120 --> 00:12:57,120
-Are you sure? / Yes.
+Are you sure?
+- Yes.
 
 153
 00:12:57,200 --> 00:12:59,480
@@ -694,7 +698,8 @@ Good, very good.
 
 156
 00:13:03,520 --> 00:13:06,120
-Still, I would recommend... / No.
+Still, I would recommend...
+- No.
 
 157
 00:13:07,280 --> 00:13:10,320
@@ -703,17 +708,17 @@ You're needed.
 
 158
 00:13:12,360 --> 00:13:13,960
-Herr Litten.
+Mr. Litten.
 Good to have you here.
 
 159
 00:13:14,680 --> 00:13:16,000
-Good morning, Frau Behnke.
+Good morning, Mrs. Behnke.
 
 160
 00:13:16,080 --> 00:13:18,080
 Would you be so kind as to help
-Herr Heymann
+Mr. Heymann
 
 161
 00:13:18,160 --> 00:13:20,240
@@ -733,7 +738,7 @@ Then I can mop in here.
 
 165
 00:13:33,320 --> 00:13:34,320
-Herr Heymann.
+Mr. Heymann.
 
 166
 00:13:36,400 --> 00:13:38,360
@@ -749,7 +754,7 @@ Ah. Thank you.
 
 169
 00:13:50,120 --> 00:13:52,320
-You can't go to the editorial office.
+You can't go to the newsroom.
 
 170
 00:13:53,120 --> 00:13:55,840
@@ -762,7 +767,7 @@ in this election campaign.
 
 172
 00:13:59,120 --> 00:14:01,400
-I will contribute a first-hand report,
+I will contribute a firsthand report,
 
 173
 00:14:01,480 --> 00:14:05,640
@@ -884,11 +889,13 @@ It won't fail on my account.
 
 200
 00:15:23,760 --> 00:15:26,560
-*she sighs with relief* / *door closes*
+*she sighs with relief*
+*door closes*
 
 201
 00:15:26,720 --> 00:15:29,880
-(Thälmann) When did you say? / As soon as possible.
+(Thälmann) When did you say?
+- As soon as possible.
 
 202
 00:15:30,040 --> 00:15:31,400
@@ -930,8 +937,8 @@ Looks like it.
 
 211
 00:15:58,800 --> 00:16:01,200
-This meeting
-must not take place under any circumstances.
+This meeting must not
+take place under any circumstances.
 
 212
 00:16:01,360 --> 00:16:03,280
@@ -953,12 +960,12 @@ That's how you make martyrs.
 
 216
 00:16:13,440 --> 00:16:15,640
-If we do it, it must be an end
+If we do it, we have to be done
 once and for all
 
 217
 00:16:15,800 --> 00:16:17,040
-to this red scum.
+with this red scum.
 
 218
 00:16:18,640 --> 00:16:20,560
@@ -966,7 +973,8 @@ We're moving up our operation.
 
 219
 00:16:21,680 --> 00:16:24,560
-I don't know if that's feasible. / It is.
+I don't know if that's feasible.
+- It is.
 
 220
 00:16:24,720 --> 00:16:26,040
@@ -979,7 +987,8 @@ and ready in my drawer.
 
 222
 00:16:31,680 --> 00:16:34,640
-Good. / I'll take care of it.
+Good.
+- I'll take care of it.
 
 223
 00:16:35,640 --> 00:16:37,840
@@ -997,12 +1006,12 @@ and distributed.
 
 226
 00:16:44,920 --> 00:16:48,320
-All right, lucky day, ladies.
+All right, lucky you, ladies.
 
 227
 00:16:48,480 --> 00:16:50,760
 I need everyone today
-for Political.
+for the Political Police.
 
 228
 00:16:51,520 --> 00:16:53,360
@@ -1010,11 +1019,11 @@ Please head upstairs.
 
 229
 00:16:54,680 --> 00:16:56,760
-Orderly, if you please!
+In an orderly fashion, please!
 
 230
 00:16:57,360 --> 00:16:58,960
-One after the other!
+One at a time!
 
 231
 00:17:00,520 --> 00:17:02,560
@@ -1022,13 +1031,13 @@ One after the other!
 
 232
 00:17:15,119 --> 00:17:18,760
-Stay ready. From now on,
-we need to know where you are at all times.
+Stay ready. From now on, we need
+to know where you are at all times.
 
 233
 00:17:29,280 --> 00:17:33,880
 And now, hear the beautiful old German
-folk song 'In einem kühlen Grunde'.
+folk song "In einem kühlen Grunde."
 
 234
 00:17:34,040 --> 00:17:37,120
@@ -1114,7 +1123,8 @@ and Frederik Baumgarten.
 
 254
 00:20:31,480 --> 00:20:34,560
-(Böhm) What is this? / (typist) Arrest warrants.
+(Böhm) What is this?
+- (Typist) Arrest warrants.
 
 255
 00:20:34,640 --> 00:20:36,520
@@ -1126,11 +1136,11 @@ Who are you doing this for?
 
 257
 00:20:39,400 --> 00:20:40,600
-Political.
+Political Police.
 
 258
 00:20:53,960 --> 00:20:55,960
-Regierungsrat Wendt
+Government Councilor Wendt
 is not available.
 
 259
@@ -1140,7 +1150,7 @@ What kind of operation is this, Sebald?
 260
 00:20:58,640 --> 00:21:01,440
 I have no knowledge of it whatsoever,
-Senior Detective.
+Senior Inspector.
 
 261
 00:21:01,520 --> 00:21:02,920
@@ -1165,7 +1175,7 @@ High treason.
 
 266
 00:21:11,440 --> 00:21:13,760
-We have clear evidence that communists
+We have clear evidence that Communists
 
 267
 00:21:13,840 --> 00:21:16,080
@@ -1203,16 +1213,17 @@ Fine, thank you very much. Goodbye.
 
 275
 00:21:45,960 --> 00:21:47,920
-Herr Gräf. / Herr Böhm.
+Mr. Gräf.
+- Mr. Böhm.
 
 276
 00:21:48,000 --> 00:21:50,400
-(clerk)
-Homicide Division, good day.
+(Clerk)
+Homicide Division, hello.
 
 277
 00:21:57,680 --> 00:22:01,320
-(whispers) I must speak with Fräulein Ritter.
+(whispers) I must speak with Miss Ritter.
 Immediately.
 
 278
@@ -1221,16 +1232,17 @@ Do you know where I can find her?
 
 279
 00:22:05,600 --> 00:22:08,240
-You mean because of the lists? / Mhm.
+You mean because of the lists?
+- Mhm.
 
 280
 00:22:08,960 --> 00:22:10,840
-I've been phoning everywhere.
+I've been calling all over.
 
 281
 00:22:11,000 --> 00:22:13,040
 (Gennat)
-Senior Detective, Herr Gräf,
+Senior Inspector, Mr. Gräf,
 
 282
 00:22:13,200 --> 00:22:14,960
@@ -1382,7 +1394,7 @@ As quickly as possible.
 316
 00:25:40,760 --> 00:25:43,800
 I do have one question, though,
-Fräulein Ritter.
+Miss Ritter.
 
 317
 00:25:46,480 --> 00:25:48,880
@@ -1419,12 +1431,12 @@ How do you know about Wendt?
 324
 00:26:17,560 --> 00:26:21,400
 Like it or not, I'm working
-for Regierungsrat Wendt now.
+for Government Councilor Wendt now.
 
 325
 00:26:23,160 --> 00:26:25,320
 He gave me no choice,
-Fräulein Ritter.
+Miss Ritter.
 
 326
 00:26:25,400 --> 00:26:28,600
@@ -1453,7 +1465,8 @@ I didn't hear that.
 
 332
 00:26:53,600 --> 00:26:56,120
-What's this? / From colleague Gräf.
+What's this?
+- From our colleague Gräf.
 
 333
 00:26:56,200 --> 00:26:57,960
@@ -1509,8 +1522,8 @@ Elections are on March 5th.
 
 345
 00:27:40,040 --> 00:27:43,800
-Hundreds of opposition members are in custody,
-thousands more will follow.
+Hundreds of opposition members are
+in custody, thousands more will follow.
 
 346
 00:27:44,240 --> 00:27:45,960
@@ -1531,7 +1544,7 @@ or else we will perish.
 
 350
 00:27:56,840 --> 00:27:58,600
-Down to daily business.
+Now, on to the day's business.
 
 351
 00:28:01,800 --> 00:28:04,000
@@ -1552,10 +1565,11 @@ In it, we still name names.
 355
 00:28:14,480 --> 00:28:17,160
 Starting today, on page two,
+we will print
 
 356
 00:28:17,240 --> 00:28:20,560
-we will print the names of the disappeared
+the names of the disappeared
 and the murdered.
 
 357
@@ -1600,7 +1614,7 @@ The decision is yours.
 
 366
 00:28:42,760 --> 00:28:44,840
-Only, you must make it soon.
+But you must make it soon.
 
 367
 00:28:45,320 --> 00:28:46,320
@@ -1636,12 +1650,12 @@ To work.
 
 375
 00:29:27,680 --> 00:29:30,640
-"Dear Herr Heymann,
-dear Herr Litten,
+"Dear Mr. Heymann,
+dear Mr. Litten,
 
 376
 00:29:31,160 --> 00:29:33,360
-now that Herr Katelbach
+now that Mr. Katelbach
 is no longer with me,
 
 377
@@ -1650,11 +1664,12 @@ I have decided
 
 378
 00:29:34,680 --> 00:29:36,600
-to undertake alone a venture
+to take on a venture
+the two of us had planned
 
 379
 00:29:36,680 --> 00:29:38,240
-that the two of us had planned.
+all by myself.
 
 380
 00:29:39,880 --> 00:29:41,400
@@ -1694,7 +1709,7 @@ of 88 Reichsmarks
 
 388
 00:29:59,920 --> 00:30:03,160
-to Ministerial Director (ret.)
+to retired Ministerial Director
 Gustav Roma,
 
 389
@@ -1730,11 +1745,11 @@ Should you wish to sublet my room,
 
 396
 00:30:34,800 --> 00:30:36,680
-it is advisable to divide the costs
+it is advisable, according to size,
 
 397
 00:30:36,760 --> 00:30:38,760
-according to size.
+to divide up the costs.
 
 398
 00:30:39,480 --> 00:30:42,640
@@ -1836,7 +1851,7 @@ don't sing love songs."
 
 420
 00:32:23,560 --> 00:32:27,120
-Herr Heymann, one more question.
+Mr. Heymann, one more question.
 Do you know where Inspector Rath is?
 
 421
@@ -1858,7 +1873,7 @@ And not a word about Dresse.
 
 425
 00:32:35,000 --> 00:32:37,520
-Of course, Frau Ritter.
+Of course, Miss Ritter.
 Keep it strictly confidential.
 
 426
@@ -1907,7 +1922,7 @@ Try again, one floor down.
 
 436
 00:33:07,240 --> 00:33:11,160
-(Heymann) Herr Reichskanzler,
+(Heymann) Chancellor,
 forgive the late disturbance.
 
 437
@@ -1936,7 +1951,7 @@ at the Pasewalk military hospital.
 442
 00:33:30,320 --> 00:33:33,880
 And I know from a reliable source,
-that is, first-hand,
+that is, firsthand,
 
 443
 00:33:34,040 --> 00:33:36,240
@@ -1968,7 +1983,7 @@ Yes.
 
 450
 00:33:59,840 --> 00:34:01,200
-Yet I say no.
+But I say no.
 
 451
 00:34:01,920 --> 00:34:03,240
@@ -2009,8 +2024,8 @@ in our escape.
 
 459
 00:34:20,560 --> 00:34:24,239
-Thousands of innocent people
-are being arrested across Germany right now.
+Thousands of innocent people are
+being arrested across Germany right now.
 
 460
 00:34:25,719 --> 00:34:26,880
@@ -2035,7 +2050,7 @@ Not yet.
 
 465
 00:34:45,920 --> 00:34:47,360
-(Frau Schleicher) Come along.
+(Mrs. Schleicher) Come along.
 
 466
 00:34:50,199 --> 00:34:52,360
@@ -2185,11 +2200,12 @@ Clean.
 
 500
 00:37:14,240 --> 00:37:17,080
-Everything inspected? / Yes, Herr Obersturmbannführer.
+Everything inspected?
+- Yes, Obersturmbannführer.
 
 501
 00:37:17,160 --> 00:37:18,280
-Fall out!
+Move out!
 
 502
 00:37:34,160 --> 00:37:36,720
@@ -2222,7 +2238,7 @@ What on earth is going on here?
 
 509
 00:39:03,680 --> 00:39:04,920
-Frau Nyssen.
+Mrs. Nyssen.
 
 510
 00:39:05,000 --> 00:39:08,240
@@ -2232,7 +2248,7 @@ standing around outside?
 511
 00:39:09,440 --> 00:39:12,080
 (Edgar) Security inspection,
-Frau Nyssen.
+Mrs. Nyssen.
 
 512
 00:39:13,000 --> 00:39:14,840
@@ -2262,11 +2278,12 @@ My goodness.
 518
 00:39:27,800 --> 00:39:30,240
 In the floor under the table,
-the air grates.
+the ventilation grates.
 
 519
 00:39:30,400 --> 00:39:33,680
-Did you see them? / Just checked them, everything in order.
+Did you see them?
+- Just checked them, everything in order.
 
 520
 00:39:34,320 --> 00:39:35,320
@@ -2274,7 +2291,8 @@ Thank you.
 
 521
 00:39:36,000 --> 00:39:37,520
-That's what we're here for. / Good.
+That's what we're here for.
+- Good.
 
 522
 00:39:38,280 --> 00:39:39,280
@@ -2416,7 +2434,7 @@ the Jews are to blame #
 
 553
 00:42:22,400 --> 00:42:24,120
-(all) Oh, I see!
+(All) Oh, I see!
 
 554
 00:42:24,280 --> 00:42:25,720
@@ -2563,11 +2581,13 @@ laughter*
 
 586
 00:44:28,880 --> 00:44:29,960
-Charlotte? / Reinhold.
+Charlotte?
+- Reinhold.
 
 587
 00:44:30,120 --> 00:44:31,320
-How are you? / Fine.
+How are you?
+- Fine.
 
 588
 00:44:31,400 --> 00:44:34,160
@@ -2576,7 +2596,7 @@ Worried doesn't begin to describe it.
 
 589
 00:44:34,320 --> 00:44:35,680
-Thank you for the key, too.
+Thank you for the keys, too.
 
 590
 00:44:36,320 --> 00:44:37,800
@@ -2584,16 +2604,18 @@ Have you seen Gereon?
 
 591
 00:44:37,880 --> 00:44:39,160
-No. / (Jacoby) Rath?
+No.
+- (Jacoby) Rath?
 
 592
 00:44:39,800 --> 00:44:40,920
-Yes. / I saw him.
+Yes.
+- I saw him.
 
 593
 00:44:41,080 --> 00:44:43,640
-He was at my place
-in the broadcasting house this afternoon.
+He came to see me
+at the radio station this afternoon.
 
 594
 00:44:43,720 --> 00:44:46,040
@@ -2607,7 +2629,7 @@ tonight at 9:00 PM.
 596
 00:44:49,120 --> 00:44:53,040
 Exactly ten minutes after the signal,
-you switch on the live line.
+you switch on the direct line.
 
 597
 00:44:53,200 --> 00:44:55,480
@@ -2619,7 +2641,8 @@ you switch on the live line.
 
 599
 00:45:07,240 --> 00:45:09,320
-Reichstag, you say? / Yes.
+Reichstag, you say?
+- Yes.
 
 600
 00:45:12,200 --> 00:45:13,800
@@ -2632,7 +2655,8 @@ I'll call a cab.
 
 602
 00:45:15,920 --> 00:45:16,920
-Now? / Yes, right away!
+Now?
+- Yes, right away!
 
 603
 00:45:17,080 --> 00:45:18,440
@@ -2649,7 +2673,7 @@ I'll wait outside for you.
 606
 00:45:50,760 --> 00:45:53,160
 Good evening,
-Herr Reichstag President.
+Mr. President.
 
 607
 00:45:58,120 --> 00:46:01,240
@@ -2674,7 +2698,7 @@ Him...
 
 612
 00:46:21,240 --> 00:46:23,040
-we place over here.
+we'll seat over here.
 
 613
 00:46:24,080 --> 00:46:25,680
@@ -2686,7 +2710,7 @@ In your seat, Mother.
 
 615
 00:46:47,760 --> 00:46:49,440
-(whispering) What do we do now?
+(whispers) What do we do now?
 
 616
 00:46:51,000 --> 00:46:52,000

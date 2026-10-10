@@ -32,7 +32,7 @@
 
 9
 00:01:28,600 --> 00:01:29,680
-Herr Böhm.
+Mr. Böhm.
 
 10
 00:01:45,920 --> 00:01:46,920
@@ -77,7 +77,7 @@ Mhm.
 20
 00:03:17,160 --> 00:03:19,440
 *Heymann groans*
-- (SA Man) Move it, man!
+- (SA man) Move it, man!
 
 21
 00:03:20,320 --> 00:03:21,480
@@ -85,7 +85,7 @@ Mhm.
 
 22
 00:03:22,280 --> 00:03:23,360
-(SA Man) Heave-ho.
+(SA man) Heave-ho.
 
 23
 00:03:24,120 --> 00:03:26,160
@@ -131,7 +131,7 @@ One drag.
 
 33
 00:04:18,079 --> 00:04:19,320
-(Heymann) Comrade.
+(Heymann) Fellow soldier.
 
 34
 00:04:25,000 --> 00:04:26,040
@@ -204,7 +204,8 @@ I know this man.
 
 50
 00:06:31,440 --> 00:06:34,400
-He was in Homicide. Gave a statement.
+He came to Homicide.
+Gave a statement.
 
 51
 00:06:39,280 --> 00:06:40,760
@@ -212,11 +213,11 @@ A military paybook.
 
 52
 00:06:43,880 --> 00:06:46,840
-Krajewski, Franz, Corporal.
+Krajewski, Franz, Sergeant.
 
 53
 00:06:48,200 --> 00:06:51,400
-Grand Ducal Mecklenburgian
+Grand Ducal Mecklenburg
 Fusilier Regiment 90.
 
 54
@@ -243,7 +244,7 @@ Take your photos first.
 
 59
 00:07:11,840 --> 00:07:12,920
-(Böhm) Herr Gräf.
+(Böhm) Mr. Gräf.
 
 60
 00:07:15,560 --> 00:07:17,920
@@ -255,7 +256,7 @@ Not a word to our colleagues in Homicide
 
 62
 00:07:19,760 --> 00:07:21,280
-about today's corpse.
+about the body found today.
 
 63
 00:07:22,000 --> 00:07:23,000
@@ -271,7 +272,7 @@ and I don't want you talking about it.
 
 66
 00:07:28,440 --> 00:07:30,800
-That is rather disconcerting, colleague.
+I find that disconcerting.
 
 67
 00:07:30,960 --> 00:07:33,280
@@ -284,7 +285,8 @@ I want to prevent Wendt's people
 
 69
 00:07:37,560 --> 00:07:39,320
-from snatching this case from under our noses as well.
+from snatching this case
+from under our noses as well.
 
 70
 00:07:41,240 --> 00:07:42,720
@@ -394,7 +396,7 @@ Ah, it'll turn out fine.
 
 95
 00:08:58,920 --> 00:09:00,440
-(Helfers) Frau Luxemburg?
+(Helfers) Mrs. Luxemburg?
 
 96
 00:09:03,360 --> 00:09:04,960
@@ -407,7 +409,7 @@ How do you know who my appointment is with?
 98
 00:09:07,320 --> 00:09:10,720
 Excuse me? I have an appointment
-with Frau Luxemburg.
+with Mrs. Luxemburg.
 
 99
 00:09:10,880 --> 00:09:12,240
@@ -423,7 +425,7 @@ Please, do have a seat, ladies.
 
 102
 00:09:25,480 --> 00:09:28,000
-Thank you for being able to make it.
+Thank you for making the time.
 
 103
 00:09:29,800 --> 00:09:32,320
@@ -433,7 +435,7 @@ with sugar, salt, and cinnamon.
 104
 00:09:32,400 --> 00:09:34,920
 (Waiter) I'm sorry, we don't serve that.
-- A mocha, then.
+- A Turkish coffee, then.
 
 105
 00:09:35,680 --> 00:09:37,320
@@ -464,7 +466,7 @@ Indeed.
 111
 00:09:52,480 --> 00:09:54,720
 to convey the innermost wish
-of her late sister to us?
+of her late sister
 
 112
 00:09:54,800 --> 00:09:55,800
@@ -525,7 +527,7 @@ The maternal Löwenstein side
 125
 00:10:28,360 --> 00:10:31,040
 went to Berlin early on
-with Uncle Salomo,
+with their father, Salomo,
 
 126
 00:10:31,120 --> 00:10:35,040
@@ -538,7 +540,8 @@ They still live there today.
 
 128
 00:10:37,200 --> 00:10:39,000
-As the baby of the family, my parents were old;
+Being the baby of the family,
+I had old parents;
 
 129
 00:10:39,080 --> 00:10:41,000
@@ -557,11 +560,10 @@ Kazimirowska,
 132
 00:10:46,360 --> 00:10:48,840
 and thus the visible kinship
-with Rozalia vanished.
 
 133
 00:10:49,000 --> 00:10:50,000
-vanished.
+with Rozalia vanished.
 
 134
 00:10:50,080 --> 00:10:52,600
@@ -578,8 +580,8 @@ It concerns a note
 
 137
 00:10:59,160 --> 00:11:01,600
-she made for her speech
-in the run-up to the founding congress.
+she made in the run-up
+to the founding congress
 
 138
 00:11:01,760 --> 00:11:03,160
@@ -636,7 +638,7 @@ as bourgeois inclinations...
 
 150
 00:11:36,000 --> 00:11:37,440
-Well, Frau Luxemburg,
+Well, Mrs. Luxemburg,
 
 151
 00:11:37,600 --> 00:11:40,280
@@ -666,7 +668,7 @@ The Popular Front.
 157
 00:11:51,320 --> 00:11:52,320
 What?
-- Pardon?
+- Excuse me?
 
 158
 00:11:53,440 --> 00:11:56,560
@@ -841,11 +843,11 @@ Tomorrow, 10 AM,
 197
 00:13:49,640 --> 00:13:52,240
 Bayreuther Straße 25,
-I shall await you.
+I will be waiting for you.
 
 198
 00:13:52,800 --> 00:13:54,120
-Good day, ladies.
+Have a nice day, ladies.
 
 199
 00:13:56,200 --> 00:13:58,040
@@ -887,7 +889,7 @@ This concerns high treason.
 
 208
 00:14:30,480 --> 00:14:33,800
-I made sure he won't be sent
+I made sure he wouldn't be sent
 to regular detention.
 
 209
@@ -901,8 +903,8 @@ I will do everything within my power.
 
 211
 00:14:41,320 --> 00:14:44,880
-He's been a thorn in my side for a long time,
-that Inspector.
+That inspector has been a thorn
+in my side for a long time.
 
 212
 00:14:46,120 --> 00:14:48,760
@@ -943,7 +945,7 @@ Chief Inspector.
 
 221
 00:15:27,320 --> 00:15:28,800
-Government Councillor.
+Councilor.
 
 222
 00:15:29,280 --> 00:15:32,160
@@ -953,15 +955,15 @@ of Inspector Rath?
 223
 00:15:36,920 --> 00:15:39,360
 (Gennat) Following a botched arrest,
-Inspector Rath failed to report for duty.
+Inspector Rath
 
 224
 00:15:39,440 --> 00:15:41,280
-failed to report for duty.
+failed to report back for duty.
 
 225
 00:15:41,360 --> 00:15:42,640
-He has been logged as missing.
+He has been reported missing.
 
 226
 00:15:42,720 --> 00:15:45,160
@@ -988,12 +990,12 @@ Is that so?
 
 231
 00:15:57,800 --> 00:16:01,160
-to apprehend this man, who may potentially
-also be considered a perpetrator.
+to take this man, who may potentially
+also be considered the perpetrator,
 
 232
 00:16:01,240 --> 00:16:02,280
-to apprehend him.
+into custody.
 
 233
 00:16:02,440 --> 00:16:04,080
@@ -1037,7 +1039,7 @@ No, I'm afraid not.
 
 243
 00:16:30,440 --> 00:16:32,480
-High treason is in the air.
+There's talk of high treason.
 
 244
 00:16:33,280 --> 00:16:35,800
@@ -1046,7 +1048,7 @@ from duty,
 
 245
 00:16:35,960 --> 00:16:37,600
-with immediate effect.
+effective immediately.
 
 246
 00:16:39,680 --> 00:16:41,720
@@ -1059,12 +1061,12 @@ of personnel working out, by the way?
 
 248
 00:16:47,000 --> 00:16:49,920
-A useful instrument the Police President
-has provided us with, isn't it?
+A useful instrument
+the Police President
 
 249
 00:16:50,080 --> 00:16:52,120
-isn't it?
+has provided us with, isn't it?
 
 250
 00:16:52,280 --> 00:16:54,320
@@ -1089,7 +1091,8 @@ you should bear the following in mind:
 
 255
 00:17:19,240 --> 00:17:22,800
-If you know anything about his illegal activities
+If you know anything
+about his illegal activities
 
 256
 00:17:22,880 --> 00:17:25,800
@@ -1110,15 +1113,16 @@ And then it will be me prosecuting you.
 
 260
 00:17:47,440 --> 00:17:48,680
-Herr Katelbach.
+Mr. Katelbach.
 
 261
 00:17:51,000 --> 00:17:54,560
-Frau Elisabeth, I almost didn't recognize you.
+Miss Elisabeth, I almost didn't recognize you.
 
 262
 00:17:54,720 --> 00:17:57,360
-Aha. Yet you still turned your head to look.
+Aha. But you still turned
+your head to look.
 
 263
 00:17:57,440 --> 00:18:00,400
@@ -1127,7 +1131,7 @@ with such a feast for the eyes?
 
 264
 00:18:00,480 --> 00:18:01,960
-You look dashing.
+You look very chic.
 
 265
 00:18:02,800 --> 00:18:04,080
@@ -1135,7 +1139,7 @@ Where are you coming from?
 
 266
 00:18:04,560 --> 00:18:07,120
-I was at the hairdresser's. And you?
+I was at the hair salon. And you?
 
 267
 00:18:07,200 --> 00:18:09,920
@@ -1157,7 +1161,7 @@ We are checking your identity.
 
 271
 00:18:27,280 --> 00:18:29,640
-(SA Man) Over there.
+(SA man) Over there.
 - Identification.
 
 272
@@ -1167,7 +1171,7 @@ Identification.
 
 273
 00:18:32,800 --> 00:18:33,800
-(SA Man) Halt!
+(SA man) Halt!
 
 274
 00:18:33,960 --> 00:18:35,840
@@ -1209,7 +1213,7 @@ Next.
 
 283
 00:18:57,160 --> 00:19:01,040
-(SA Man) Jonigkeit,
+(SA man) Jonigkeit,
 Müller, Schmidt...
 
 284
@@ -1245,7 +1249,7 @@ Where are we?
 291
 00:19:26,560 --> 00:19:30,560
 (Heymann) Tempelhof.
-SA Barracks. In purgatory.
+SA barracks. In limbo.
 
 292
 00:19:33,640 --> 00:19:35,880
@@ -1287,7 +1291,7 @@ In a truck.
 
 301
 00:20:01,080 --> 00:20:03,040
-(SA Man) Camp North!
+(SA man) Camp North!
 Camp North?
 
 302
@@ -1298,7 +1302,7 @@ and hauling them to Oranienburg.
 303
 00:20:08,480 --> 00:20:10,480
 (Kornfeld) Mhm.
-- In regular rotation.
+- They go down the line.
 
 304
 00:20:10,640 --> 00:20:13,480
@@ -1338,7 +1342,7 @@ During the drive.
 
 312
 00:20:34,560 --> 00:20:36,800
-(SA Man) Right, in here now.
+(SA man) All right, in here now.
 
 313
 00:20:36,960 --> 00:20:38,680
@@ -1377,7 +1381,7 @@ phone ringing*
 
 321
 00:21:15,840 --> 00:21:18,800
-Any new developments, Chief Inspector?
+Any new developments, Senior Inspector?
 
 322
 00:21:19,520 --> 00:21:20,680
@@ -1385,12 +1389,12 @@ What business is that of yours?
 
 323
 00:21:33,040 --> 00:21:35,320
-Right, Krajewski, Franz.
+All right. Krajewski, Franz.
 
 324
 00:21:36,280 --> 00:21:40,720
-'Discharged from military service.
-Pasewalk Hospital. Forster.'
+"Discharged from military service.
+Pasewalk Military Hospital. Forster."
 
 325
 00:21:41,400 --> 00:21:42,400
@@ -1466,7 +1470,7 @@ You first.
 
 342
 00:23:18,120 --> 00:23:19,600
-Let's walk a few steps.
+Let's take a little walk.
 
 343
 00:23:22,600 --> 00:23:24,560
@@ -1479,7 +1483,8 @@ who was in my office yesterday.
 
 345
 00:23:28,400 --> 00:23:31,640
-I hope to learn details from Pathology shortly.
+I hope to learn details
+from Pathology shortly.
 
 346
 00:23:31,720 --> 00:23:33,680
@@ -1514,7 +1519,7 @@ And Hitler.
 353
 00:23:47,160 --> 00:23:50,320
 He wants to eradicate all traces
-leading back to that hospital.
+leading back to that military hospital.
 
 354
 00:23:50,400 --> 00:23:51,480
@@ -1599,7 +1604,7 @@ but I would like it back.
 372
 00:24:43,880 --> 00:24:46,680
 Does it belong to you,
-or to colleague Rath?
+or to Inspector Rath?
 
 373
 00:24:51,560 --> 00:24:53,680
@@ -1608,7 +1613,7 @@ I'm listening.
 
 374
 00:24:57,600 --> 00:24:59,000
-To colleague Rath.
+To Inspector Rath.
 
 375
 00:24:59,160 --> 00:25:01,360
@@ -1616,11 +1621,12 @@ Aha, just as I thought.
 
 376
 00:25:02,720 --> 00:25:05,160
-Have you ever considered that colleague Rath
+Have you ever considered
+that Inspector Rath
 
 377
 00:25:05,240 --> 00:25:07,240
-was set on Forster?
+was sent after Forster?
 
 378
 00:25:07,880 --> 00:25:09,000
@@ -1645,7 +1651,7 @@ You see?
 
 383
 00:25:37,200 --> 00:25:38,200
-Right.
+All right.
 
 384
 00:25:39,240 --> 00:25:41,520
@@ -1677,7 +1683,7 @@ We shouldn't return to the Burg together.
 
 391
 00:26:04,040 --> 00:26:05,920
-Best call it a day.
+You'd better call it a day.
 
 392
 00:26:08,360 --> 00:26:09,400
@@ -1747,8 +1753,8 @@ Something, at least.
 
 408
 00:27:28,320 --> 00:27:32,080
-(Speaker) The Chairman of the
-Social Democratic Party speaks:
+(Speaker) Now speaking: the chairman
+of the Social Democratic Party,
 
 409
 00:27:32,160 --> 00:27:33,200
@@ -1832,7 +1838,7 @@ whether radical or moderate,
 
 429
 00:29:39,640 --> 00:29:42,080
-we shall prevent
+we will prevent
 
 430
 00:29:42,240 --> 00:29:45,440
@@ -1849,7 +1855,7 @@ Well, look at that,
 
 433
 00:30:01,600 --> 00:30:03,160
-Lotte is a Socialist.
+Lotte is a Social Democrat.
 
 434
 00:30:03,320 --> 00:30:04,880
@@ -1960,12 +1966,12 @@ Pardon me?
 
 459
 00:31:34,880 --> 00:31:37,800
-How can it be that we fail
-to prevent such a mass gathering?
+How can it be that we allow
+such a mass gathering
 
 460
 00:31:37,960 --> 00:31:38,960
-to prevent it?
+to go ahead?
 
 461
 00:31:39,040 --> 00:31:40,960
@@ -1978,7 +1984,7 @@ The Weimar Constitution.
 
 463
 00:31:43,000 --> 00:31:45,800
-Right, and tomorrow the KPD comes along
+Sure, and tomorrow the KPD comes along
 
 464
 00:31:45,880 --> 00:31:48,600
@@ -2004,7 +2010,7 @@ we require an altered legal framework.
 
 469
 00:32:02,840 --> 00:32:05,600
-And that must be substantiated.
+And that has to be justified.
 
 470
 00:32:05,760 --> 00:32:08,400
@@ -2046,11 +2052,11 @@ set the blaze from within.
 
 479
 00:32:48,280 --> 00:32:49,320
-Herr Böhm!
+Mr. Böhm!
 
 480
 00:32:50,320 --> 00:32:53,640
-Herr Böhm.
+Mr. Böhm.
 I've just come from Pathology.
 
 481
@@ -2096,7 +2102,7 @@ Or are they simply brazen now?
 
 490
 00:33:16,960 --> 00:33:18,680
-They haven't seen the last of me.
+They'll find out who they're dealing with.
 
 491
 00:33:25,080 --> 00:33:27,160
@@ -2126,7 +2132,7 @@ you were withholding from us.
 
 497
 00:34:14,719 --> 00:34:17,560
-Government Councillor Wendt
+Government Councilor Wendt
 has a few questions for you.
 
 498
@@ -2184,7 +2190,7 @@ Move it now!
 
 511
 00:36:11,760 --> 00:36:14,120
-Herr Böhm, you may see him now.
+Mr. Böhm, you may see him now.
 
 512
 00:36:30,560 --> 00:36:33,120
@@ -2206,7 +2212,7 @@ indistinct dialogue*
 516
 00:37:04,680 --> 00:37:07,400
 So do you intend to visit us
-more often now, Herr Litten?
+more often now, Mr. Litten?
 
 517
 00:37:08,080 --> 00:37:11,360
@@ -2225,11 +2231,11 @@ sleep on the sofa there...
 
 520
 00:37:18,560 --> 00:37:20,920
-Yes, of course, Herr Litten.
+Yes, of course, Mr. Litten.
 
 521
 00:37:24,440 --> 00:37:27,760
-Yet tomorrow morning I expect
+But tomorrow morning I expect
 two ladies for coffee.
 
 522
@@ -2243,7 +2249,7 @@ Naturally.
 524
 00:37:33,840 --> 00:37:36,280
 Female visitors?
-What is she on about?
+What is she talking about?
 
 525
 00:37:36,360 --> 00:37:38,120
@@ -2335,7 +2341,7 @@ Who served in the war?
 
 546
 00:39:14,320 --> 00:39:16,880
-(several) Here.
+(Several) Here.
 - Then allow me
 
 547
@@ -2381,7 +2387,7 @@ A blacksmith.
 
 557
 00:39:52,440 --> 00:39:54,320
-(SA Man) Identification check.
+(SA man) Identification check.
 
 558
 00:39:55,640 --> 00:39:59,760
@@ -2421,7 +2427,7 @@ we're up tomorrow.
 
 566
 00:40:38,840 --> 00:40:40,560
-Strike fast and strike short.
+Short, quick stabs.
 
 567
 00:40:46,920 --> 00:40:48,320
